@@ -7,13 +7,13 @@ class Solution {
         // handle the case where k> array length n
         k = k%n;
 
-        // reverse the k element
+        // reverse the entire element
         reverse(nums,0,n-1);
 
-        // reverse the n-k element
+        // reverse the k element
         reverse(nums,0,k-1);
 
-        // reverse the entire array
+        // reverse the n-k array
         reverse(nums,k,n-1);
 
     }
