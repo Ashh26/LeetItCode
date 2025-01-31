@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
+| [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
