@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
