@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ashh26/LeetAndGeek/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ashh26/LeetAndGeek/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
