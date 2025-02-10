@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ashh26/LeetAndGeek/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Ashh26/LeetAndGeek/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashh26/LeetAndGeek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0152-maximum-product-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ashh26/LeetAndGeek/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
