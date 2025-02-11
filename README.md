@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Ashh26/LeetAndGeek/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ashh26/LeetAndGeek/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
