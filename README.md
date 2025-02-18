@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashh26/LeetAndGeek/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -129,12 +133,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
