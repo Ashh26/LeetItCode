@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashh26/LeetAndGeek/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0812-rotate-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
