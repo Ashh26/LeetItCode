@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
