@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ashh26/LeetAndGeek/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashh26/LeetAndGeek/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## String
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0812-rotate-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ashh26/LeetAndGeek/tree/master/1508-longest-happy-prefix) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -187,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Binary Search
 |  |
 | ------- |
