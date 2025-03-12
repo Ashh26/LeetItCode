@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Ashh26/LeetAndGeek/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ashh26/LeetAndGeek/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Ashh26/LeetAndGeek/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0039-combination-sum) |
 ## Queue
 |  |
 | ------- |
