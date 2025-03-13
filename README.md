@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashh26/LeetAndGeek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ashh26/LeetAndGeek/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Ashh26/LeetAndGeek/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Ashh26/LeetAndGeek/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
