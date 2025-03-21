@@ -244,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
