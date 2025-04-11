@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ashh26/LeetAndGeek/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Ashh26/LeetAndGeek/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ashh26/LeetAndGeek/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Ashh26/LeetAndGeek/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ashh26/LeetAndGeek/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/Ashh26/LeetAndGeek/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
