@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ashh26/LeetAndGeek/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashh26/LeetAndGeek/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashh26/LeetAndGeek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ashh26/LeetAndGeek/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashh26/LeetAndGeek/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
