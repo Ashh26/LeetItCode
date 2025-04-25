@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ashh26/LeetAndGeek/tree/master/0792-binary-search) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashh26/LeetAndGeek/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ashh26/LeetAndGeek/tree/master/0792-binary-search) |
 ## Union Find
 |  |
