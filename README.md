@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ashh26/LeetAndGeek/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashh26/LeetAndGeek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashh26/LeetAndGeek/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ashh26/LeetAndGeek/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
