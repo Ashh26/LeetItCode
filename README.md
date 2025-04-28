@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ashh26/LeetAndGeek/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Ashh26/LeetAndGeek/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashh26/LeetAndGeek/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashh26/LeetAndGeek/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ashh26/LeetAndGeek/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Ashh26/LeetAndGeek/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ashh26/LeetAndGeek/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashh26/LeetAndGeek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
