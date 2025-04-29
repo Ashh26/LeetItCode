@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
