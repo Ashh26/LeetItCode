@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashh26/LeetAndGeek/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashh26/LeetAndGeek/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Ashh26/LeetAndGeek/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashh26/LeetAndGeek/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
