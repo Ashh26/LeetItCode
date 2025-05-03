@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashh26/LeetAndGeek/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashh26/LeetAndGeek/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashh26/LeetAndGeek/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ashh26/LeetAndGeek/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Ashh26/LeetAndGeek/tree/master/0221-maximal-square) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Design
 |  |
 | ------- |
