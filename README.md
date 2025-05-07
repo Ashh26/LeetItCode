@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashh26/LeetAndGeek/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ashh26/LeetAndGeek/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashh26/LeetAndGeek/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ashh26/LeetAndGeek/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashh26/LeetAndGeek/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashh26/LeetAndGeek/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Ashh26/LeetAndGeek/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ashh26/LeetAndGeek/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0086-partition-list) |
