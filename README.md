@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Ashh26/LeetAndGeek/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashh26/LeetAndGeek/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashh26/LeetAndGeek/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashh26/LeetAndGeek/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -389,5 +394,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashh26/LeetAndGeek/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
