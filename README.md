@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Ashh26/LeetAndGeek/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashh26/LeetAndGeek/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Ashh26/LeetAndGeek/tree/master/1848-sum-of-unique-elements) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0234-palindrome-linked-list) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ashh26/LeetAndGeek/tree/master/0085-maximal-rectangle) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -420,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
