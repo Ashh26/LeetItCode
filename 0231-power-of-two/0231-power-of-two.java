@@ -7,6 +7,7 @@ class Solution {
                 return true;
             }
 
+            if(ans<Integer.MAX_VALUE/2)
             ans = ans*2;
 
         }
