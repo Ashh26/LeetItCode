@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ashh26/LeetAndGeek/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashh26/LeetAndGeek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ashh26/LeetAndGeek/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0263-ugly-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashh26/LeetAndGeek/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Ashh26/LeetAndGeek/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ashh26/LeetAndGeek/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Ashh26/LeetAndGeek/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ashh26/LeetAndGeek/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ashh26/LeetAndGeek/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ashh26/LeetAndGeek/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
