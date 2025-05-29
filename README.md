@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashh26/LeetAndGeek/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Ashh26/LeetAndGeek/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
+| [1054-complement-of-base-10-integer](https://github.com/Ashh26/LeetAndGeek/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
