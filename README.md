@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ashh26/LeetAndGeek/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ashh26/LeetItCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ashh26/LeetAndGeek/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ashh26/LeetAndGeek/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashh26/LeetAndGeek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ashh26/LeetItCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ashh26/LeetAndGeek/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0263-ugly-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashh26/LeetAndGeek/tree/master/1014-k-closest-points-to-origin) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ashh26/LeetItCode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ashh26/LeetAndGeek/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Tree
 |  |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashh26/LeetAndGeek/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ashh26/LeetItCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
