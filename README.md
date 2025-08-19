@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ashh26/LeetItCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ashh26/LeetAndGeek/tree/master/0792-binary-search) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ashh26/LeetAndGeek/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ashh26/LeetItCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
