@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0330-patching-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashh26/LeetAndGeek/tree/master/0417-pacific-atlantic-water-flow) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashh26/LeetAndGeek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashh26/LeetAndGeek/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ashh26/LeetAndGeek/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ashh26/LeetAndGeek/tree/master/0435-non-overlapping-intervals) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ashh26/LeetAndGeek/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ashh26/LeetAndGeek/tree/master/0792-binary-search) |
