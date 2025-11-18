@@ -19,7 +19,6 @@ class Solution {
         }
 
         // Now converting arrayList into array
-        int[] ans = result.stream().mapToInt(Integer::intValue).toArray();
-        return ans;
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
