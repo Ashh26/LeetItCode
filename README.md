@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Ashh26/LeetItCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ashh26/LeetItCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashh26/LeetAndGeek/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Ashh26/LeetItCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0812-rotate-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ashh26/LeetAndGeek/tree/master/1508-longest-happy-prefix) |
