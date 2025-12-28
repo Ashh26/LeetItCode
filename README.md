@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Ashh26/LeetItCode/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Ashh26/LeetItCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0812-rotate-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashh26/LeetAndGeek/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ashh26/LeetAndGeek/tree/master/1508-longest-happy-prefix) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Ashh26/LeetItCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Ashh26/LeetAndGeek/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
