@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Ashh26/LeetAndGeek/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Ashh26/LeetItCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Ashh26/LeetItCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ashh26/LeetItCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ashh26/LeetAndGeek/tree/master/0066-plus-one) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ashh26/LeetItCode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Ashh26/LeetAndGeek/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
