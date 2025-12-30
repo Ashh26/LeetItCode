@@ -1,31 +1,29 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if(needle.isEmpty()){
-            return 0;
-        }
+       if(needle.isEmpty()) return 0;
 
-        int hayStackLength = haystack.length();
-        int needleLength = needle.length();
+        int hl = haystack.length();
+        int nl = needle.length();
 
-        int hayStackPointer=0;
-        int needlePointer=0;
+        int hp = 0;
+        int np = 0;
 
-        while(hayStackPointer<hayStackLength){
-            if(haystack.charAt(hayStackPointer)==needle.charAt(needlePointer)){
-                if(needleLength==1){
-                    return hayStackPointer;
-                }
-                hayStackPointer++;
-                needlePointer++;
+        while(hp<hl){
+            if(haystack.charAt(hp)==needle.charAt(np)){
+                if(nl==0) return hp;
+                hp++;
+                np++;
             }else{
-                hayStackPointer -= needlePointer-1;
-                needlePointer=0;
+                hp = hp-np+1;
+                np=0;
             }
 
-            if(needlePointer==needleLength){
-                return hayStackPointer-needlePointer;
-            }
+            if(np==nl){
+                return hp-np;
+            }  
         }
+
         return -1;
+
     }
 }
