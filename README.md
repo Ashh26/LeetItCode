@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashh26/LeetAndGeek/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ashh26/LeetItCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ashh26/LeetAndGeek/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0033-search-in-rotated-sorted-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashh26/LeetAndGeek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ashh26/LeetAndGeek/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Ashh26/LeetItCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashh26/LeetAndGeek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ashh26/LeetAndGeek/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashh26/LeetItCode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashh26/LeetItCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
